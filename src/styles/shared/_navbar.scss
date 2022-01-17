@@ -1,8 +1,16 @@
+.navbar__big-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .navbar__container {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #f5eff1e3;
 }
 
 .navbar__title {
