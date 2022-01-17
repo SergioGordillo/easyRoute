@@ -18,14 +18,6 @@ export const MapView = () => {
     }, [setMap]);
 
     return (
-        // <div style={{
-        //             backgroundColor: "red",
-        //             height: "100vh",
-        //             width: "100vw",
-        //             position: "fixed",
-        //             top: 0,
-        //             left: 0
-        //              }}>
         <div className="map__container" id="map">    
         </div>
     )
