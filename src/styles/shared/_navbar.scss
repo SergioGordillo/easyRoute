@@ -1,10 +1,10 @@
 .navbar__big-container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
-.navbar__container {
+.navbar__container, .navbar_container_addmarker {
     display: flex;
     align-items: center;
     justify-content: center;
