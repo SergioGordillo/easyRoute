@@ -6,7 +6,7 @@
 }
 
 html, body {
-    background: linear-gradient(90deg, rgba(96,207,220,1) 0%, rgba(190,52,218,1) 92%);
+    background: linear-gradient(90deg, $blue 0%, $pink 92%);
     height: 100vh; 
     width: 100vw; 
 }
